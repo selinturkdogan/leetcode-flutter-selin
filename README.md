@@ -4,19 +4,19 @@ This repository contains my solutions to selected LeetCode problems using **Dart
 
 ---
 
-## Folder Structure
+##  Folder Structure
 
-leetcode-flutter-selin
+```
+leetcode-flutter-selin/
 │
-├── easy
-│ ├── 001_two_sum.dart
-│ ├── 009_palindrome_number.dart
-│ ├── 013_roman_to_integer.dart
-│ ├── 066_plus_one.dart
+├── easy/
+│   ├── 001_two_sum.dart
+│   ├── 009_palindrome_number.dart
+│   ├── 013_roman_to_integer.dart
+│   ├── 066_plus_one.dart
 │
 └── README.md
-
----
+```
 
 ## Completed Problems
 
