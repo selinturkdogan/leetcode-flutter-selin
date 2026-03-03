@@ -14,6 +14,7 @@ leetcode-flutter-selin/
 │   ├── 009_palindrome_number.dart
 │   ├── 013_roman_to_integer.dart
 │   ├── 066_plus_one.dart
+│   ├── 169_majority_element.dart
 │
 └── README.md
 ```
@@ -26,6 +27,7 @@ leetcode-flutter-selin/
 - [x] 009 Palindrome Number
 - [x] 013 Roman to Integer
 - [x] 066 Plus One
+- [x] 169 Majority Element
 
 ---
 
