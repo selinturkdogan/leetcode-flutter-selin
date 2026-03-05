@@ -16,6 +16,7 @@ leetcode-flutter-selin/
 │   ├── 066_plus_one.dart
 │   ├── 169_majority_element.dart
 │   ├── 217_contains_duplicate.dart
+│   ├── 268_missing_number.dart
 │
 └── README.md
 ```
@@ -30,6 +31,7 @@ leetcode-flutter-selin/
 - [x] 066 Plus One
 - [x] 169 Majority Element
 - [x] 217 Contains Duplicate
+- [x] 268 Missing Number
 
 ---
 
