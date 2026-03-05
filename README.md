@@ -15,6 +15,7 @@ leetcode-flutter-selin/
 │   ├── 013_roman_to_integer.dart
 │   ├── 066_plus_one.dart
 │   ├── 169_majority_element.dart
+│   ├── 217_contains_duplicate.dart
 │
 └── README.md
 ```
@@ -28,6 +29,7 @@ leetcode-flutter-selin/
 - [x] 013 Roman to Integer
 - [x] 066 Plus One
 - [x] 169 Majority Element
+- [x] 217 Contains Duplicate
 
 ---
 
