@@ -20,6 +20,7 @@ leetcode-flutter-selin/
 │   ├── 448_find_all_numbers_disappeared.dart
 │   ├── 136_single_number.dart
 │   ├── 020_valid_parentheses.dart
+│   ├── 026_remove_duplicates_from_sorted_array.dart
 │
 └── README.md
 ```
@@ -38,6 +39,7 @@ leetcode-flutter-selin/
 - [x] 448 Find All Numbers Disappeared in an Array
 - [x] 136 Single Number
 - [x] 020 Valid Parentheses
+- [x] 026 Remove Duplicates from Sorted Array
 
 ---
 
