@@ -18,6 +18,7 @@ leetcode-flutter-selin/
 │   ├── 217_contains_duplicate.dart
 │   ├── 268_missing_number.dart
 │   ├── 448_find_all_numbers_disappeared.dart
+│   ├── 136_single_number.dart
 │
 └── README.md
 ```
@@ -34,6 +35,7 @@ leetcode-flutter-selin/
 - [x] 217 Contains Duplicate
 - [x] 268 Missing Number
 - [x] 448 Find All Numbers Disappeared in an Array
+- [x] 136 Single Number
 
 ---
 
