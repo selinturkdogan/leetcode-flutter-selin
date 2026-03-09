@@ -23,6 +23,7 @@ leetcode-flutter-selin/
 │   ├── 026_remove_duplicates_from_sorted_array.dart
 │   ├── 027_remove_element.dart
 │   ├── 028_find_index_of_first_occurrence.dart
+│   ├── 058_length_of_last_word.dart
 │
 └── README.md
 ```
@@ -44,6 +45,7 @@ leetcode-flutter-selin/
 - [x] 026 Remove Duplicates from Sorted Array
 - [x] 027 Remove Element
 - [x] 028 Find the Index of the First Occurrence in a String
+- [x] 058 Length of Last Word
 
 ---
 
