@@ -21,6 +21,7 @@ leetcode-flutter-selin/
 │   ├── 136_single_number.dart
 │   ├── 020_valid_parentheses.dart
 │   ├── 026_remove_duplicates_from_sorted_array.dart
+│   ├── 027_remove_element.dart
 │
 └── README.md
 ```
@@ -40,6 +41,7 @@ leetcode-flutter-selin/
 - [x] 136 Single Number
 - [x] 020 Valid Parentheses
 - [x] 026 Remove Duplicates from Sorted Array
+- [x] 027 Remove Element
 
 ---
 
