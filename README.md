@@ -28,6 +28,7 @@ leetcode-flutter-selin/
 │   ├── 242_valid_anagram.dart
 │   ├── 344_reverse_string.dart
 │   ├── 387_first_unique_character.dart
+│   ├── 412_fizz_buzz.dart
 │
 └── README.md
 ```
@@ -54,6 +55,7 @@ leetcode-flutter-selin/
 - [x] 242 Valid Anagram
 - [x] 344 Reverse String
 - [x] 387 First Unique Character in a String
+- [x] 412 Fizz Buzz
 
 ---
 
