@@ -27,6 +27,7 @@ leetcode-flutter-selin/
 │   ├── 125_valid_palindrome.dart
 │   ├── 242_valid_anagram.dart
 │   ├── 344_reverse_string.dart
+│   ├── 387_first_unique_character.dart
 │
 └── README.md
 ```
@@ -52,6 +53,7 @@ leetcode-flutter-selin/
 - [x] 125 Valid Palindrome
 - [x] 242 Valid Anagram
 - [x] 344 Reverse String
+- [x] 387 First Unique Character in a String
 
 ---
 
