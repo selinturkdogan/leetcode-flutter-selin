@@ -36,6 +36,7 @@ leetcode-flutter-selin/
 │   ├── 350_intersection_of_two_arrays_II.dart
 │   ├── 414_third_maximum_number.dart
 │   ├── 628_maximum_product_of_three_numbers.dart
+│   ├── 1002_find_common_characters.dart
 │
 └── README.md
 ```
@@ -70,6 +71,7 @@ leetcode-flutter-selin/
 - [x] 350 Intersection of Two Arrays II
 - [x] 414 Third Maximum Number
 - [x] 628 Maximum Product of Three Numbers
+- [x] 1002 Find Common Characters
 
 ---
 
