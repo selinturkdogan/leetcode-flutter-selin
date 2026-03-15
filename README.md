@@ -34,6 +34,7 @@ leetcode-flutter-selin/
 │   ├── 283_move_zeroes.dart
 │   ├── 349_intersection_of_two_arrays.dart
 │   ├── 350_intersection_of_two_arrays_II.dart
+│   ├── 414_third_maximum_number.dart
 │
 └── README.md
 ```
@@ -66,6 +67,7 @@ leetcode-flutter-selin/
 - [x] 283 Move Zeroes
 - [x] 349 Intersection of Two Arrays
 - [x] 350 Intersection of Two Arrays II
+- [x] 414 Third Maximum Number
 
 ---
 
