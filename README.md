@@ -35,6 +35,7 @@ leetcode-flutter-selin/
 │   ├── 349_intersection_of_two_arrays.dart
 │   ├── 350_intersection_of_two_arrays_II.dart
 │   ├── 414_third_maximum_number.dart
+│   ├── 628_maximum_product_of_three_numbers.dart
 │
 └── README.md
 ```
@@ -68,6 +69,7 @@ leetcode-flutter-selin/
 - [x] 349 Intersection of Two Arrays
 - [x] 350 Intersection of Two Arrays II
 - [x] 414 Third Maximum Number
+- [x] 628 Maximum Product of Three Numbers
 
 ---
 
