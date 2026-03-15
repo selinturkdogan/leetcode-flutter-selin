@@ -32,6 +32,7 @@ leetcode-flutter-selin/
 │   ├── 557_reverse_words_in_string_III.dart
 │   ├── 088_merge_sorted_array.dart
 │   ├── 283_move_zeroes.dart
+│   ├── 349_intersection_of_two_arrays.dart
 │
 └── README.md
 ```
@@ -62,6 +63,7 @@ leetcode-flutter-selin/
 - [x] 557 Reverse Words in a String III
 - [x] 088 Merge Sorted Array
 - [x] 283 Move Zeroes
+- [x] 349 Intersection of Two Arrays
 
 ---
 
