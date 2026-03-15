@@ -37,6 +37,7 @@ leetcode-flutter-selin/
 │   ├── 414_third_maximum_number.dart
 │   ├── 628_maximum_product_of_three_numbers.dart
 │   ├── 1002_find_common_characters.dart
+│   ├── 121_best_time_to_buy_and_sell_stock.dart
 │
 └── README.md
 ```
@@ -72,6 +73,7 @@ leetcode-flutter-selin/
 - [x] 414 Third Maximum Number
 - [x] 628 Maximum Product of Three Numbers
 - [x] 1002 Find Common Characters
+- [x] 121 Best Time to Buy and Sell Stock
 
 ---
 
