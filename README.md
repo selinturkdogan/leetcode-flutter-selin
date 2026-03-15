@@ -31,6 +31,7 @@ leetcode-flutter-selin/
 │   ├── 412_fizz_buzz.dart
 │   ├── 557_reverse_words_in_string_III.dart
 │   ├── 088_merge_sorted_array.dart
+│   ├── 283_move_zeroes.dart
 │
 └── README.md
 ```
@@ -59,7 +60,8 @@ leetcode-flutter-selin/
 - [x] 387 First Unique Character in a String
 - [x] 412 Fizz Buzz
 - [x] 557 Reverse Words in a String III
-  - [x] 088 Merge Sorted Array
+- [x] 088 Merge Sorted Array
+- [x] 283 Move Zeroes
 
 ---
 
