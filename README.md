@@ -40,6 +40,7 @@ leetcode-flutter-selin/
 │   ├── 121_best_time_to_buy_and_sell_stock.dart
 │   ├── 070_climbing_stairs.dart
 │   ├── 014_longest_common_prefix.dart
+│   ├── 118_pascals_triangle.dart
 │
 └── README.md
 ```
@@ -78,6 +79,7 @@ leetcode-flutter-selin/
 - [x] 121 Best Time to Buy and Sell Stock
 - [x] 070 Climbing Stairs
 - [x] 014 Longest Common Prefix
+- [x] 118 Pascal's Triangle
 
 ---
 
