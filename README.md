@@ -42,6 +42,7 @@ leetcode-flutter-selin/
 │   ├── 014_longest_common_prefix.dart
 │   ├── 118_pascals_triangle.dart
 │   ├── 119_pascals_triangle_II.dart
+│   ├── 190_reverse_bits.dart
 │
 └── README.md
 ```
@@ -82,6 +83,7 @@ leetcode-flutter-selin/
 - [x] 014 Longest Common Prefix
 - [x] 118 Pascal's Triangle
 - [x] 119 Pascal's Triangle II
+- [x] 190 Reverse Bits
 
 ---
 
