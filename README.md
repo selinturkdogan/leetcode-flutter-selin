@@ -47,6 +47,7 @@ leetcode-flutter-selin/
 │   ├── 202_happy_number.dart
 │   ├── 231_power_of_two.dart
 │   ├── 326_power_of_three.dart
+│   ├── 342_power_of_four.dart
 │
 └── README.md
 ```
@@ -92,6 +93,7 @@ leetcode-flutter-selin/
 - [x] 202 Happy Number
 - [x] 231 Power of Two
 - [x] 326 Power of Three
+- [x] 342 Power of Four
 
 ---
 
