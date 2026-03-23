@@ -45,6 +45,7 @@ leetcode-flutter-selin/
 │   ├── 190_reverse_bits.dart
 │   ├── 191_number_of_1_bits.dart
 │   ├── 202_happy_number.dart
+│   ├── 231_power_of_two.dart
 │
 └── README.md
 ```
@@ -88,6 +89,7 @@ leetcode-flutter-selin/
 - [x] 190 Reverse Bits
 - [x] 191 Number of 1 Bits
 - [x] 202 Happy Number
+- [x] 231 Power of Two
 
 ---
 
