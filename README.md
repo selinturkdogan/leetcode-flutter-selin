@@ -39,6 +39,7 @@ leetcode-flutter-selin/
 │   ├── 1002_find_common_characters.dart
 │   ├── 121_best_time_to_buy_and_sell_stock.dart
 │   ├── 070_climbing_stairs.dart
+│   ├── 014_longest_common_prefix.dart
 │
 └── README.md
 ```
@@ -76,6 +77,7 @@ leetcode-flutter-selin/
 - [x] 1002 Find Common Characters
 - [x] 121 Best Time to Buy and Sell Stock
 - [x] 070 Climbing Stairs
+- [x] 014 Longest Common Prefix
 
 ---
 
