@@ -44,6 +44,7 @@ leetcode-flutter-selin/
 │   ├── 119_pascals_triangle_II.dart
 │   ├── 190_reverse_bits.dart
 │   ├── 191_number_of_1_bits.dart
+│   ├── 202_happy_number.dart
 │
 └── README.md
 ```
@@ -86,6 +87,7 @@ leetcode-flutter-selin/
 - [x] 119 Pascal's Triangle II
 - [x] 190 Reverse Bits
 - [x] 191 Number of 1 Bits
+- [x] 202 Happy Number
 
 ---
 
