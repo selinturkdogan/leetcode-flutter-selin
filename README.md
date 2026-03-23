@@ -48,6 +48,7 @@ leetcode-flutter-selin/
 │   ├── 231_power_of_two.dart
 │   ├── 326_power_of_three.dart
 │   ├── 342_power_of_four.dart
+│   ├── 401_binary_watch.dart
 │
 └── README.md
 ```
@@ -94,6 +95,7 @@ leetcode-flutter-selin/
 - [x] 231 Power of Two
 - [x] 326 Power of Three
 - [x] 342 Power of Four
+- [x] 401 Binary Watch
 
 ---
 
