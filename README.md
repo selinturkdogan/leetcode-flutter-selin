@@ -58,6 +58,12 @@ leetcode-flutter-selin/
 │   ├── 234_palindrome_linked_list.dart
 │   ├── 704_binary_search.dart
 │   ├── 905_sort_array_by_parity.dart
+│   ├── 383_ransom_note.dart
+│   ├── 392_is_subsequence.dart
+│   ├── 434_number_of_segments_in_a_string.dart
+│   ├── 520_detect_capital.dart
+│   ├── 709_to_lower_case.dart
+│   ├── 771_jewels_and_stones.dart
 │
 └── README.md
 ```
@@ -113,9 +119,19 @@ leetcode-flutter-selin/
 - [x] 232 Implement Queue using Stacks  
 - [x] 234 Palindrome Linked List  
 - [x] 704 Binary Search  
-- [x] 905 Sort Array By Parity  
+- [x] 905 Sort Array By Parity
+- [x] 383 Ransom Note  
+- [x] 392 Is Subsequence  
+- [x] 434 Number of Segments in a String  
+- [x] 520 Detect Capital  
+- [x] 709 To Lower Case  
+- [x] 771 Jewels and Stones  
 
 ---
+
+### Note
+
+Some problems appear in multiple categories and were already implemented earlier.
 
 ## Language Used
 
