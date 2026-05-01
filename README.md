@@ -64,6 +64,20 @@ leetcode-flutter-selin/
 │   ├── 520_detect_capital.dart
 │   ├── 709_to_lower_case.dart
 │   ├── 771_jewels_and_stones.dart
+├── medium/
+│   ├── 002_add_two_numbers.dart
+│   ├── 003_longest_substring_without_repeating_characters.dart
+│   ├── 011_container_with_most_water.dart
+│   ├── 015_3sum.dart
+│   ├── 033_search_in_rotated_sorted_array.dart
+│   ├── 034_find_first_and_last_position.dart
+│   ├── 049_group_anagrams.dart
+│   ├── 053_maximum_subarray.dart
+│   ├── 056_merge_intervals.dart
+│   ├── 075_sort_colors.dart
+│   ├── 151_reverse_words_in_a_string.dart
+│   ├── 238_product_of_array_except_self.dart
+│   ├── 347_top_k_frequent_elements.dart
 │
 └── README.md
 ```
@@ -125,7 +139,23 @@ leetcode-flutter-selin/
 - [x] 434 Number of Segments in a String  
 - [x] 520 Detect Capital  
 - [x] 709 To Lower Case  
-- [x] 771 Jewels and Stones  
+- [x] 771 Jewels and Stones
+
+### Medium
+
+- [x] 002 Add Two Numbers  
+- [x] 003 Longest Substring Without Repeating Characters  
+- [x] 011 Container With Most Water *(extra)*  
+- [x] 015 3Sum  
+- [x] 033 Search in Rotated Sorted Array *(extra)*  
+- [x] 034 Find First and Last Position *(extra)*  
+- [x] 049 Group Anagrams  
+- [x] 053 Maximum Subarray *(extra)*  
+- [x] 056 Merge Intervals  
+- [x] 075 Sort Colors  
+- [x] 151 Reverse Words in a String  
+- [x] 238 Product of Array Except Self  
+- [x] 347 Top K Frequent Elements  
 
 ---
 
